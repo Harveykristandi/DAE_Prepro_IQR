@@ -10,7 +10,7 @@ Code Python ini berfungsi untuk membersihkan data dari outlier menggunakan metod
 4. Visualisasi: Menghasilkan plot histogram perbandingan (sebelum vs. sesudah) untuk setiap kolom yang dibersihkan.
 5. Simpan & Unduh: Menyimpan data yang sudah bersih ke dalam format .csv dan .xlsx, lalu otomatis mengunduhnya ke komputermu.
 
-##Cara Pakai
+## Cara Pakai
 1. Buka Google Colab: https://colab.research.google.com/.
 2. Buat Notebook baru.
 3. Salin dan tempel seluruh kode dari file clean_outliers.py ke dalam sel di Notebook.
